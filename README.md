@@ -1,4 +1,4 @@
-To run P3 - EinsteinVision
+To get the output from deep learning models:
 
 1. For 2D Object Detection, run all the cells in Human_Pose_and_MiDAS.ipynb
 
