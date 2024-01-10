@@ -6,5 +6,5 @@ To get the output from deep learning models:
 
 3. For Human Pose Estimation, run all cells in YOLO2D_and_MIDAS
 
-The video of the render sequence from blender:
-[Watch Video](render_video_interpolated.mp4)
+The render sequence from blender:
+![Render GIF](./Videos/gif.gif)
